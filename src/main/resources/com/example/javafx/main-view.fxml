@@ -15,4 +15,5 @@
         <TextField fx:id="userAnswer" prefHeight="52.0" prefWidth="426.0" HBox.hgrow="ALWAYS"/>
         <Button defaultButton="true" onAction="#clickCheckButton" text="Check" />
     </HBox>
+
 </VBox>
